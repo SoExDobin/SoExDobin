@@ -1,56 +1,26 @@
+<img src="./assets/soexdobin-header.svg" alt="SoExDobin — Game Client Programmer" width="100%">
 
-![header](https://capsule-render.vercel.app/api?&text=SoExciting&animation=fadeIn&type=waving&color=auto&height=244&section=header&fontSize=70)
+<div align="center">
 
+### 최재욱 · Game Client Programmer
 
-### <div align="center">:video_game:Hi My Name is Dobin   I want to be a game developer:video_game:</div>
+C++ / DirectX 기반 게임 클라이언트를 만듭니다. 캐릭터 동작, 전투, 엔진·에디터 작업을 해왔습니다.
 
-```java
-======================================================================================================================
-}
-```
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/DirectX%2011-222222?style=flat-square" alt="DirectX 11"> <img src="https://img.shields.io/badge/HLSL-44546A?style=flat-square" alt="HLSL"> <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
 
-### <div align="center">And</div>
+</div>
 
-### <div align="center">:honeybee: I learned about this.! :honeybee:</div>
-   
-   
-<div align="center">  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-5C1F87?style=for-the-badge&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-A8B9CC?style=for-the-badge&logo=Python&logoColor=white"/></div> 
+## Projects
 
-#
-<br>
+- **Clair Obscur: Expedition 33 모작** · 8인 팀 / DirectX 11  
+  모델·애니메이션 변환, 캐릭터 상태와 Root Motion, 전투 화면 효과, 맵 데이터 연동
+- **NieR:Automata 모작** · 개인 / DirectX 11  
+  자체 엔진·에디터, 애니메이션 이벤트, 플레이어 전투, Recast 내비게이션
+- **Moonlighter 모작** · 5인 팀 / DirectX 9  
+  게임 오브젝트·충돌 구조, 씬 전환, 사막 던전 보스와 몬스터
 
-### <div align="center">:honeybee: I've tried this at least once! :honeybee:</div>    
-   
-<div align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=OpenJDK&logoColor=white"/> </div>
+## Public code
 
-#
-<br>
+[StudyMetalSlug3](https://github.com/SoExDobin/StudyMetalSlug3/tree/feat/day1-player-and-setup) · [WinAPI](https://github.com/SoExDobin/WinAPI) · [SlimeDicer](https://github.com/SoExDobin/SlimeDicer)
 
-### <div align="center">:honeybee: I can use these tools! :honeybee:</div> 
-
-<div align="center"><img src="https://img.shields.io/badge/Unity-009473?style=for-the-badge&logo=Unity&logoColor=White"/>  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/></div>
-
-#
-<br>
-
-![Dobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoExDobin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoExDobin&layout=compact&theme=tokyonight)
-
-#
-<br>
-
-## Article
-
-#### :maple_leaf: My resume MapleStory project since 22/10/15 ~ 22/12/18 : **[Maple Nothion url](https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
-
-#### 2022/05 ~ 2022/07 : I make 2D dot RPG Game of 'Over The Breath' with **Unity**
-
-#### 2022/12/18 : I make simple Dice Game with **Java's awt,swing & eclipse**
-
-#### 2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with Unity & aseprite (To be)
-
-
-#
-<br>
-
-## My Licenese
-* **Engineer Information Processing**  In Human Resources Development Service of Korea (To be)
+<sub>한세대학교 컴퓨터공학과 졸업 · 쥬신게임아카데미 게임 클라이언트 심화 과정 수료. 위 모작 프로젝트는 학습 목적으로 제작했습니다.</sub>
