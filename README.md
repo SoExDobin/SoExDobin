@@ -10,8 +10,6 @@ C++ / DirectX 기반 게임 클라이언트를 만듭니다. 캐릭터 동작, �
 
 **[포트폴리오 보기 →](https://soexdobin.xyz/?ref=github)**
 
-<img src="https://komarev.com/ghpvc/?username=SoExDobin&style=flat-square&color=44546A&label=Profile+views" alt="Profile views">
-
 </div>
 
 ## Projects
