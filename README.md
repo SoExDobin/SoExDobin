@@ -8,6 +8,10 @@ C++ / DirectX 기반 게임 클라이언트를 만듭니다. 캐릭터 동작, �
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/DirectX%2011-222222?style=flat-square" alt="DirectX 11"> <img src="https://img.shields.io/badge/HLSL-44546A?style=flat-square" alt="HLSL"> <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
 
+**[포트폴리오 보기 →](https://soexdobin.xyz/?ref=github)**
+
+<img src="https://komarev.com/ghpvc/?username=SoExDobin&style=flat-square&color=44546A&label=Profile+views" alt="Profile views">
+
 </div>
 
 ## Projects
