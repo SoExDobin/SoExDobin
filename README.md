@@ -21,7 +21,7 @@ C++ / DirectX 기반 게임 클라이언트를 만듭니다. 캐릭터 동작, �
 - **NieR:Automata 모작** · 1차 2026.01 ~ 04 · 리팩토링 2026.09 ~ 10 · 개인  
   개발 환경 C++20 · DirectX 11 · HLSL / 라이브러리 PhysX · Jolt · RTTR · FMOD  
   담당 Engine · Client · Editor · Launcher · ModelConverter — 자체 엔진·에디터, 애니메이션 이벤트, 플레이어 전투, Recast 내비게이션  
-  개발 도구 GitHub 이슈 · PR · Actions 릴리즈 빌드 · Obsidian 작업 기록 · Claude Code
+  개발 도구 GitHub 이슈 · PR · Actions 릴리즈 빌드 · Obsidian 작업 기록
 - **Moonlighter 모작** · 2025.11 ~ 12 · 5인 팀  
   개발 환경 C++ · DirectX 9 · D3DX9 / 라이브러리 DirectInput 8 · FMOD · ImGui  
   담당 Engine 프레임워크(GameObject · Component · Layer · 충돌 · Scene 전환) · Client 사막 던전 보스
